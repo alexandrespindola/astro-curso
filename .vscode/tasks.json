@@ -1,0 +1,19 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "astro",
+			"problemMatcher": [],
+			"label": "npm: astro",
+			"detail": "astro"
+		},
+		{
+			"type": "npm",
+			"script": "dev",
+			"problemMatcher": [],
+			"label": "npm: dev",
+			"detail": "astro dev"
+		}
+	]
+}
